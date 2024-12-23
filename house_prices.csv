@@ -1,0 +1,15 @@
+year,area,bedrooms,bathrooms,location,garage,age,renovated,price
+2010,1500,3,2,City Center,1,10,No,350000
+2011,1800,4,3,Suburb,2,5,Yes,450000
+2012,1200,2,1,City Center,0,20,No,250000
+2013,2500,5,4,Suburb,3,2,Yes,600000
+2014,1400,3,2,City Center,1,15,No,320000
+2015,2000,4,3,Suburb,2,8,Yes,480000
+2016,1100,2,1,Suburb,0,25,No,210000
+2017,2300,5,4,City Center,2,4,Yes,550000
+2018,1600,3,2,Suburb,1,12,No,370000
+2019,1900,4,3,City Center,2,6,Yes,490000
+2020,1200,2,1,City Center,0,18,No,270000
+2021,2100,5,4,Suburb,3,3,Yes,610000
+2022,1800,4,3,City Center,2,7,Yes,460000
+2023,1400,3,2,Suburb,1,14,No,340000
